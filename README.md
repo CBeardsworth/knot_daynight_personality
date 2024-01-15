@@ -4,4 +4,4 @@
 
 This paper is currently under review and we have posted data and code for the reviewers access only.
 
-The analysis R-script can be found [here](https://cbeardsworth.github.io/knot_daynight_personality/01-06-2022_PatchMovement_and_Exploration.R). Data files are all in the main respository and can be downloaded for use with the analysis script. 
+The analysis R-script can be found [here](https://cbeardsworth.github.io/knot_daynight_personality/main/01-06-2022_PatchMovement_and_Exploration.R). Data files are all in the main respository and can be downloaded for use with the analysis script. 
